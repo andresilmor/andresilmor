@@ -26,7 +26,7 @@ About my path till now, I started my studies in Visual Arts (High-School), to "r
 </a> 
   
 <br>
-or contact me directly on [mailto](mailto:email@example.com) 
+or contact me directly with <i>andresilmor@outlook.com</i> or <i>andre-moreira@ipb.pt</i> 
 
 
 <br/>  
