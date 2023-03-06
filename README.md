@@ -1,4 +1,4 @@
-## Hello There😸, I'm André SilMor  
+## Hello There 😸, I'm André SilMor  
 
 ### I'm a... 
 ...multifaceted developer, I like and im always open to experiment different technologies and programming fields, while I don't consider myself expert in none of them, I know "where" to start if needed, at the moment I'm on a "solo" full-stack project involving XR Development as Research Fellow at UNIAG, Portugal.
