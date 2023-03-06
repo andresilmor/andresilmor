@@ -6,7 +6,7 @@
 About my path till now, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was quite good), after which I wanted to run away from papers and pencils 😹, so I entered on the Multimidia Bachelor Degree (EsACT-IPB) with my focus on Post-Production and Editing, but on my first year I had "Introduction to Programming" which I loved (really unexpected), since the degree didn't had a very strong/structured programming component, and my Math "skill" was far from enough to change for a more Informatics focused course, I took extra classes from others degrees since Game Development till Android with Java (not my favorite field), at the moment I'm on my second and last year of the Informatics Master Degree (ESTiG-IPB) and already working on my thesis related with Healthcare, XR technologies and Machine Learning.
 
 
-### And you can find me also on
+### You can find me also on
 
 <a href="https://linkedin.com/in/andresilmor" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
