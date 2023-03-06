@@ -1,6 +1,5 @@
 ## Hello There😸, I'm André SilMor  
 
-
 ### I'm a... 
 ...multifaceted developer, I like and im always open to experiment different technologies and programming fields, while I don't consider myself expert in none of them, I know "where" to start if needed, at the moment I'm on a "solo" full-stack project involving XR Development as Research Fellow at UNIAG, Portugal.
 
@@ -111,6 +110,9 @@ or contact me directly with <i>andresilmor@outlook.com</i> or <i>andre-moreira@i
 
 
 ## About my GitHub
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresilmor" alt="andresilmor" /> </p>
+<br>
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=andresilmor&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
