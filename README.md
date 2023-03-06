@@ -45,7 +45,7 @@ About my path till now, I started my studies in Visual Arts (High-School), to "r
 - 👻 My biggest weakness/fear is Math (and centipedes)  
   
 
-- ⚡ Fun fact: I'm a Horror movies fan  
+- ⚡ Fun fact: I'm a Horror movies addict  
 
 
 
