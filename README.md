@@ -111,7 +111,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> or <i>andre-moreira@i
 
 ## About my GitHub
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresilmor" alt="andresilmor" /> </p>
+<p align="left"> <i>I had &nbsp; <img src="https://komarev.com/ghpvc/?username=andresilmor" alt="andresilmor" /> &nbsp; since 03/2023</i></p>
 <br>
 <table><tr><td valign="top" width="50%">
 
