@@ -25,6 +25,9 @@ About my path till now, I started my studies in Visual Arts (High-School), to "r
 <img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white alt=itchio style="margin-bottom: 5px;" />
 </a> 
   
+<br>
+or contact me directly on [mailto](mailto:email@example.com) 
+
 
 <br/>  
 <br/>  
