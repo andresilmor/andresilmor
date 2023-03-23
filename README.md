@@ -11,18 +11,21 @@ About my path till now, I started my studies in Visual Arts (High-School), to "r
 <a href="https://linkedin.com/in/andresilmor" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/andresilmor" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/andresilmor" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+<a href="https://orcid.org/0000-0002-6253-6615" target="_blank">
+<img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" style="margin-bottom: 5px;"/>
 </a>  
 <a href="https://www.researchgate.net/profile/Andre-Moreira-28" target="_blank">
 <img src=https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white alt=researchgate style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.behance.net/andresilmor" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>  
 <a href="https://drowearl.itch.io/" target="_blank">
 <img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white alt=itchio style="margin-bottom: 5px;" />
 </a> 
+<a href="https://instagram.com/andresilmor" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
   
 <br>
 or contact me directly with <i>andresilmor@outlook.com</i> or <i>andre-moreira@ipb.pt</i> 
