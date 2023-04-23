@@ -1,9 +1,10 @@
 ## Hello There 😸, I'm André SilMor  
+### A.K.A. André Silva Moreira
 
 ### I'm a... 
-...multifaceted developer, I like and im always open to experiment different technologies and programming fields, while I don't consider myself expert in none of them, I know "where" to start if needed, at the moment I'm on a "solo" full-stack project involving XR Development as Research Fellow at UNIAG, Portugal.
+...multifaceted developer, I like and im always open to experiment different technologies and programming fields, while I don't consider myself expert in none of them in terms of experience or deep knowledge, I like to know "where" to start if needed, at the moment I'm on a "solo" full-stack project involving XR Development as Research Fellow at UNIAG, Portugal, in the GreenHealth project.
 
-About my path till now, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was quite good), after which I wanted to run away from papers and pencils 😹, so I entered on the Multimidia Bachelor Degree (EsACT-IPB) with my focus on Post-Production and Editing, but on my first year I had "Introduction to Programming" which I loved (really unexpected), since the degree didn't had a very strong/structured programming component, and my Math "skill" was far from enough to change for a more Informatics focused course, I took extra classes from others degrees since Game Development till Android with Java (not my favorite field), at the moment I'm on my second and last year of the Informatics Master Degree (ESTiG-IPB) and already working on my thesis related with Healthcare, XR technologies and Machine Learning.
+About my path till now, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was good enough), after which I wanted to run away from papers and pencils 😹, so I entered on the Multimidia Bachelor Degree (EsACT-IPB) with my focus on Post-Production and Editing, but on my first year I had "Introduction to Programming" which I loved (really unexpected), since the degree didn't had a very strong/structured programming component, and my Math "skill" was far from enough to change for a more Informatics focused degree, I took extra classes from others degrees since Game Development till Android with Java (my least favorite field), at the moment I'm on my second and last year of the Informatics Master Degree (ESTiG-IPB) and already working on my thesis related with Healthcare, XR technologies and Machine Learning.
 
 
 ### You can find me also on
@@ -28,7 +29,7 @@ About my path till now, I started my studies in Visual Arts (High-School), to "r
 </a>
   
 <br>
-or contact me directly with <i>andresilmor@outlook.com</i> or <i>andre-moreira@ipb.pt</i> 
+or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andre-moreira@ipb.pt</i> (Professional) 
 
 
 <br/>  
@@ -38,19 +39,19 @@ or contact me directly with <i>andresilmor@outlook.com</i> or <i>andre-moreira@i
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working with XR development in a full-stack project
+- 🔭 I’m currently working with XR Technologies in a full-stack project
   
 
-- ❤️ My first experience with programming was in 2018 (w/ Python) in the 1º year of my Bachelor  
+- ❤️ My first experience with programming was in 2018 (w/ basic Python on the console) in the 1º semester / 1º year of my Bachelor  
   
 
-- ❓ I like to assist my colleagues, as far i can, even when harming myself  
+- ❓ I like to assist my colleagues, as far i can, even when "harming" myself 
   
 
 - 👻 My biggest weakness/fear is Math (and centipedes)  
   
 
-- ⚡ Fun fact: I'm a Horror movies addict  
+- ⚡ Fun fact: I'm a Horror movies addict and I like to make photomontages of myself with Horror theme 
 
 
 
@@ -60,7 +61,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> or <i>andre-moreira@i
 <br/>  
 
 
-## I have some experience with...  
+## I have some experience with (but not limited on)...  
  <!--- https://ileriayo.github.io/markdown-badges/ --->
 
   <br/>
@@ -100,15 +101,12 @@ or contact me directly with <i>andresilmor@outlook.com</i> or <i>andre-moreira@i
     <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  </div>
-   <br/>
+     <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
 
+  </div> 
+   <br/>
 <br/>  
 
 
