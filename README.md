@@ -4,39 +4,41 @@
 ### I'm a... 
 ...multifaceted developer, I like and im always open to experiment different technologies and programming fields, while I don't consider myself expert in none of them in terms of experience or deep knowledge, I like to know "where" to start if needed, at the moment I'm on a "solo" full-stack project involving XR Development as Research Fellow at UNIAG, Portugal, in the GreenHealth project.
 
-About my path till now, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was good enough), after which I wanted to run away from papers and pencils 😹, so I entered on the Multimidia Bachelor Degree (EsACT-IPB) with my focus on Post-Production and Editing, but on my first year I had "Introduction to Programming" which I loved (really unexpected), since the degree didn't had a very strong/structured programming component, and my Math "skill" was far from enough to change for a more Informatics focused degree, I took extra classes from others degrees since Game Development till Android with Java (my least favorite field), at the moment I'm on my second and last year of the Informatics Master Degree (ESTiG-IPB) and already working on my thesis related with Healthcare, XR technologies and Machine Learning.
+<br/>  
+<details>
+  <summary> <b>You can find me also on </b> <i>(See more...)</i> </summary>
 
-
-### You can find me also on
-
-<a href="https://linkedin.com/in/andresilmor" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://orcid.org/0000-0002-6253-6615" target="_blank">
-<img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" style="margin-bottom: 5px;"/>
-</a>  
-<a href="https://www.researchgate.net/profile/Andre-Moreira-28" target="_blank">
-<img src=https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white alt=researchgate style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.behance.net/andresilmor" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-<a href="https://drowearl.itch.io/" target="_blank">
-<img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white alt=itchio style="margin-bottom: 5px;" />
-</a> 
-<a href="https://instagram.com/andresilmor" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+  <br/>
+  <a href="https://linkedin.com/in/andresilmor" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://orcid.org/0000-0002-6253-6615" target="_blank">
+  <img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" style="margin-bottom: 5px;"/>
+  </a>  
+  <a href="https://www.researchgate.net/profile/Andre-Moreira-28" target="_blank">
+  <img src=https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white alt=researchgate style="margin-bottom: 5px;" />
+  </a>  
+  <a href="https://www.behance.net/andresilmor" target="_blank">
+  <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+  </a>  
+  <a href="https://drowearl.itch.io/" target="_blank">
+  <img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white alt=itchio style="margin-bottom: 5px;" />
+  </a> 
+  <a href="https://instagram.com/andresilmor" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
   
-<br>
+  
+</details>
 or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andre-moreira@ipb.pt</i> (Professional) 
 
-
 <br/>  
 <br/>  
+<br/>
+<details>
+  <summary> <b>Rapidfire</b> </summary>
 
-
-## Rapidfire  
+  <br/>
 <table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working with XR Technologies in a full-stack project
@@ -53,16 +55,15 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 
 - ⚡ Fun fact: I'm a Horror movies addict and I like to make photomontages of myself with Horror theme 
 
-
-
-
 </td></tr></table>  
+  
+</details>
 
-<br/>  
 
 
-## I have some experience with (but not limited on)...  
- <!--- https://ileriayo.github.io/markdown-badges/ --->
+<br/>
+<details>
+  <summary> <b>I have some experience with (but not limited on)... </b> </summary>
 
   <br/>
   <div text-align="justify">
@@ -106,23 +107,36 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
 
   </div> 
-   <br/>
+  
+</details>
 <br/>  
-
 
 ## About my GitHub
 
 <p align="left"> <i>I had &nbsp; <img src="https://komarev.com/ghpvc/?username=andresilmor" alt="andresilmor" /> &nbsp; since 03/2023</i></p>
-<br>
-<table><tr><td valign="top" width="50%">
+  <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=andresilmor&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
+### List of Projects/Repositories (to help you and me XD)
 
-</td><td valign="top" width="50%">
+<details>
+  <summary> <b>Virtual Reality</b> </summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresilmor&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 100%" />
-
-</td></tr></table>  
+  <br/>
+<table>
+  <tr>
+    <td valign="top" >
+      <b>Geometry for Kiddos</b>
+    </td>
+    <td valign="top" >
+      Application in Mixed-Reality (HL2) to support teachers and students in Geometry studies through different settings and scenarios. 
+    </td>
+    <td valign="top" >
+      <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i>
+    </td>
+  </tr>
+</table>  
+  
+</details>
 
 <br/>  
 
