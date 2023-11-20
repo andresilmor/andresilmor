@@ -34,7 +34,6 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 
 <br/>  
 <br/>  
-<br/>
 <details>
   <summary> <b>A little about me as professional</b> </summary>
 
@@ -66,136 +65,29 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 
 <p align="left"> <i>I had &nbsp; <img src="https://komarev.com/ghpvc/?username=andresilmor" alt="andresilmor" /> &nbsp; since 03/2023 (more than half are mine)</i></p> 
  
-
 ### List of Projects/Repositories (to help you and me XD)
 
 <details>
   <summary> <b>Virtual Reality</b> </summary>
-
   <br/>
-<table>
-  <tr>
-    <td valign="center" >
-      <b>EsACT Tour (VR Project)</b>
-    </td>
-    <td valign="center" >
-       Virtual Reality Tour, using Unity with OpenXR, in a 3D Model of my University with 360º Hotpots in points of interests (such as "unique" classrooms or studiums) with small "game" mechanics.
-    </td>
-    <td valign="center" >
-      <i>university unity vr virtual-reality-experiences university-project virtual-reality htc-vive interaction 360 360-video 360-photo cshap first-timer vive-controller openxr xr-interaction-toolkit </i>
-    </td>
-    <td valign="center" >
-      <i>2021</i>
-    </td>
-    <td valign="center" >
-      <i>Bachelor Final Project</i>
-    </td>
-    <td valign="center" >
-      https://github.com/andresilmor/EsACT-IPB-Tour-VR-Project
-    </td>
-  </tr>
 
-  <tr>
-    <td valign="center" >
-      <b>Interaction with 360º Hotspot dynamically created in Virtual Reality by reading a JSON file</b>
-    </td>
-    <td valign="center" >
-       Hotspot 360º in Virtual Reality fully created based on the data retrieved from a JSON file, with interaction with elements mapped in the scene (using the data from the file) and OpenXR to display information/other media.  
-    </td>
-    <td valign="center" >
-      <i>json unity vr virtual-reality-experiences virtual-reality hotspot 360 360-photo 360-degree openxr xr-interaction-toolkit</i>
-    </td>
-    <td valign="center" >
-      <i>2021</i>
-    </td>
-    <td valign="center" >
-      <i>Bachelor Final Projec Exercise</i>
-    </td>
-    <td valign="center" >
-      https://github.com/andresilmor/Interaction-with-360-Hotspot-dynamically-created-in-Virtual-Reality-by-reading-a-JSON-file
-    </td>
-  </tr>
+| Name/Link | Description | Keywords | Year | Context | 
+| --- | --- | :-: | :-: | :-: |
+| <b>[EsACT Tour (VR Project)](https://github.com/andresilmor/EsACT-IPB-Tour-VR-Project)</b> | Virtual Reality Tour, using Unity with OpenXR, in a 3D Model of my University with 360º Hotpots in points of interests (such as "unique" classrooms or studiums) with small "game" mechanics. | <i>university unity vr virtual-reality-experiences university-project virtual-reality htc-vive interaction 360 360-video 360-photo cshap first-timer vive-controller openxr xr-interaction-toolkit</i> | 2021 | <i>Bachelor Final Project</i> |
+| <b>[Interaction with 360º Hotspot dynamically created in Virtual Reality by reading a JSON file](https://github.com/andresilmor/Interaction-with-360-Hotspot-dynamically-created-in-Virtual-Reality-by-reading-a-JSON-file)</b> | Hotspot 360º in Virtual Reality fully created based on the data retrieved from a JSON file, with interaction with elements mapped in the scene (using the data from the file) and OpenXR to display information/other media. | <i>json unity vr virtual-reality-experiences virtual-reality hotspot 360 360-photo 360-degree openxr xr-interaction-toolkit</i> | 2021 | <i>Bachelor Final Project Exercise</i> |
+| <b>[Gaze focus detection on 360º image elements in Virtual Reality](https://github.com/andresilmor/Gaze-focus-detection-on-360-image-elements-in-Virtual-Reality)</b> | Use of Tobii XR SDK in a 360º Hotspot in Virtual Reality for Gaze Detection and data registration on a JSON File (360º Image elements looked at and duration of gaze), the data is also ordered in real-time using QuickSort. | <i>json csharp game-engine unity vr quicksort virtual-reality eye-tracking tobii quicksort-algorithm gaze-tracking tobii-eye-tracker 360-photo eye-detection tobii-eyetracker</i> | 2021 | <i>Bachelor Final Project Exercise</i> |
+| <b>[Interaction with 360º Hotspot elements in Virtual Reality](https://github.com/andresilmor/Interaction-with-360-Hotspot-elements-in-Virtual-Reality)</b> | Interaction with elements mapped on a 360º Hotspot (created from start/no assets, tools) using OpenXR to display information.  | <i>unity vr virtual-reality information-visualization interaction 360-photo openxr</i> | 2021 | <i>Bachelor Final Project Exercise</i> |
 
-  <tr>
-    <td valign="center" >
-      <b>Gaze focus detection on 360º image elements in Virtual Reality</b>
-    </td>
-    <td valign="center" >
-       Use of Tobii XR SDK in a 360º Hotspot in Virtual Reality for Gaze Detection and data registration on a JSON File (360º Image elements looked at and duration of gaze), the data is also ordered in real-time using QuickSort. 
-    </td>
-    <td valign="center" >
-      <i>json csharp game-engine unity vr quicksort virtual-reality eye-tracking tobii quicksort-algorithm gaze-tracking tobii-eye-tracker 360-photo eye-detection tobii-eyetracker </i>
-    </td>
-    <td valign="center" >
-      <i>2021</i>
-    </td>
-    <td valign="center" >
-      <i>Bachelor Final Projec Exercise</i>
-    </td>
-    <td valign="center" >
-      https://github.com/andresilmor/Gaze-focus-detection-on-360-image-elements-in-Virtual-Reality
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="center" >
-      <b>Interaction with 360º Hotspot elements in Virtual Reality</b>
-    </td>
-    <td valign="center" >
-       Interaction with elements mapped on a 360º Hotspot (created from start/no assets, tools) using OpenXR to display information. 
-    </td>
-    <td valign="center" >
-      <i>unity vr virtual-reality information-visualization interaction 360-photo openxr</i>
-    </td>
-    <td valign="center" >
-      <i>2021</i>
-    </td>
-    <td valign="center" >
-      <i>Bachelor Final Projec Exercise</i>
-    </td>
-    <td>
-     https://github.com/andresilmor/Interaction-with-360-Hotspot-elements-in-Virtual-Reality
-    </td>
-  </tr>
-  
-</table>  
-  
 </details>
+
 
 <details>
   <summary> <b>Mixed Reality</b> </summary>
-
   <br/>
-<table>
-  <tr>
-    <td valign="center" >
-      <b>Geometry for Kiddos</b>
-    </td>
-    <td valign="center" >
-      Application in Mixed-Reality (HL2) to support teachers and students in Geometry studies through different settings and scenarios. 
-    </td>
-    <td valign="center" >
-      <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i>
-    </td>
-    <td valign="center" >
-      <i>2023</i>
-    </td>
-    <td valign="center" >
-      <i>Research Project</i>
-    </td>
-    <td valign="center" >
-      https://github.com/andresilmor/Geometry-for-Kiddos
-    </td>
-  </tr>
-
-</table>  
   
+| Name/Link | Description | Keywords | Year | Context | 
+| --- | --- | :-: | :-: | :-: |
+| <b>[Geometry for Kiddos](https://github.com/andresilmor/Geometry-for-Kiddos)</b> | Application in Mixed-Reality (HL2) to support teachers and students in Geometry studies through different settings and scenarios. | <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i> | 2023 | <i>Research Project</i> |
+
 </details>
 
-<br/>  
-
-
-<br/>  
-
-
-<br />
