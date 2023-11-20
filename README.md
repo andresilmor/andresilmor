@@ -160,7 +160,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 
 
 <details>
-  <summary> <b>Diverses</b> </summary>
+  <summary> <b>Others</b> </summary>
   <br/>
   
 | Name/Link | Description | Keywords | Year | Context | 
