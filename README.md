@@ -64,8 +64,8 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 
 ## About my GitHub
 
-<p align="left"> <i>I had &nbsp; <img src="https://komarev.com/ghpvc/?username=andresilmor" alt="andresilmor" /> &nbsp; since 03/2023</i></p>
-  <br/>
+<p align="left"> <i>I had &nbsp; <img src="https://komarev.com/ghpvc/?username=andresilmor" alt="andresilmor" /> &nbsp; since 03/2023 (more than half are mine)</i></p> 
+ 
 
 ### List of Projects/Repositories (to help you and me XD)
 
