@@ -2,9 +2,7 @@
 ### A.K.A. André Silva Moreira
 
 ### I'm a... 
-...multifaceted developer, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was good enough), after which I wanted to run away from papers and pencils 😹, so I entered on the Multimidia Bachelor Degree (EsACT-IPB) with my focus on Post-Production and Editing, but on my first year I had "Introduction to Programming" which I loved (really unexpected).
-
-Since the degree didn't had a very strong/structured programming component, and my Math "skill" was far from enough to change for a more Informatics focused degree, I took extra classes from others degrees since Game Development till Android with Java (my least favorite field), at the moment I'm on my second and last year of the Informatics Master Degree (ESTiG-IPB) and already concluded my thesis related with Healthcare, XR technologies and Machine Learning. 
+...multifaceted developer, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was good enough), after which I wanted to run away from papers and pencils 😹, so I entered in the Multimidia Bachelor Degree (EsACT-IPB) with my interest in Post-Production and Editing, however it was presented to me "programming" in my first year with "Introduction to Programming" which I loved (really unexpected), and during that period I took extra classes from others degrees since Game Development till Android with Java (my least favorite field), at the moment I'm on my second and last year of the Informatics Master Degree (ESTiG-IPB) and already concluded my thesis related with Healthcare, XR technologies and Machine Learning. 
 
 I like and im always open to experiment different technologies and programming fields, while I don't consider myself expert in none of them in terms of experience or deep knowledge, I like to know "where" to start if needed.
 
@@ -47,16 +45,16 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 - 🔭 I'm currently working in a Mixed Reality application to assist Geometry learning in Basic/Secondary School while improving my knowledge in Game Development
   
 
-- ❤️ My first experience with programming was in 2018 (w/ basic Python on the console) in the 1º semester / 1º year of my Bachelor  
+- ❤️ My first experience with programming was in 2018 (w/ basic Python running in the CMD) in the 1º semester / 1º year of my Bachelor  
   
 
-- ❓ I like to assist my colleagues, as far i can, sometimes "harming" myself 
+- ❓ I like to assist and help my colleagues, like a colleague once said, i'm bad good teacher
   
 
 - 👻 My biggest weakness is Math (and centipedes)  
   
 
-- ⚡ My strength resides that I accept and do like being challenged
+- ⚡ And my strength resides that I accept and do like being challenged
 
 </td></tr></table>  
   
@@ -82,6 +80,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 | <b>[Gaze focus detection on 360º image elements in Virtual Reality](https://github.com/andresilmor/Gaze-focus-detection-on-360-image-elements-in-Virtual-Reality)</b> | Use of Tobii XR SDK in a 360º Hotspot in Virtual Reality for Gaze Detection and data registration on a JSON File (360º Image elements looked at and duration of gaze), the data is also ordered in real-time using QuickSort. | <i>json csharp game-engine unity vr quicksort virtual-reality eye-tracking tobii quicksort-algorithm gaze-tracking tobii-eye-tracker 360-photo eye-detection tobii-eyetracker</i> | 2021 | <i>Bachelor Final Project Exercise</i> |
 | <b>[Interaction with 360º Hotspot elements in Virtual Reality](https://github.com/andresilmor/Interaction-with-360-Hotspot-elements-in-Virtual-Reality)</b> | Interaction with elements mapped on a 360º Hotspot (created from start/no assets, tools) using OpenXR to display information.  | <i>unity vr virtual-reality information-visualization interaction 360-photo openxr</i> | 2021 | <i>Bachelor Final Project Exercise</i> |
 
+<br/>
 </details>
 
 
@@ -91,8 +90,9 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   
 | Name/Link | Description | Keywords | Year | Context | 
 | --- | --- | :-: | :-: | :-: |
-| <b>[Geometry for Kiddos](https://github.com/andresilmor/Geometry-for-Kiddos)</b> | Application in Mixed-Reality (HL2) to support teachers and basic/secondary students in Geometry studies through different settings and scenarios. | <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i> | 2023 | <i>Research Project</i> |
+| <b>[Geometry for Kiddos](https://github.com/andresilmor/Geometry-for-Kiddos)</b> | Application in Mixed-Reality (HL2) to support teachers and basic/secondary students in Geometry studies through different settings and scenarios. | <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i> | 2023 | <i>Research Project (Independent)</i> |
 
+<br/>
 </details>
 
 
@@ -110,6 +110,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 | <b>[Daily Screening Website](https://github.com/andresilmor/Daily-Screening-Website)</b> | Introduction Project to the Back-end Development using PHP and MySQL, with some extras like the use of PDO, MVC Architecture and retrieval of information from a third-party News API. | <i>mysql api bootstrap php website university pdo university-project mvc-framework mvc-architecture mysql-database pdo-mysql model-view-controller pdo-php</i> | 2020 | <i>Bachelor's Class Work</i> |
 | <b>[Dark Season Website](https://github.com/andresilmor/Dark-Season-Website)</b> | Introduction Project to the Front-end web development (personally, of any kind) with HTML, CSS and Javascript withou Libraries.  | <i>website university static-site first-timers static-website</i> | 2020 | <i>Bachelor's Class Work</i> |
 
+<br/>
 </details>
 
 
@@ -122,6 +123,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 | <b>[IPB Campus Life Social Network Web API](https://github.com/andresilmor/IPB-Campus-Life-Social-Network/tree/dev-backend)</b> | University Team Project related to "full-stack" development of an application/website of our choice. From the database using NoSQL Document Database (MongoDB), the Web API/Web Service with the Flask Framework and the Front-End with React.js and a mix of Native CSS, Bootstrap and Material UI. Implementing both Frontoffice and Backoffice. | <i>flask webservice website front-end frontend backend social-network reactjs webapi webplatform mongodb-driver backend-api one-page-website</i> | 2022 | <i>Master's Class Work</i> |
 | <b>[FTP Connection PHP Class](https://github.com/andresilmor/FTP-Connection-PHP-Class)</b> | PHP Class to manage a FTP connection between a Website/Webapp and a Web Server with CRUD operations. | <i>php website web-development ftp file-transfer ftp-client ftp-server oriented-object-programming crud-operations file-transfer-protocol ftp-protocol crud-ftp ftp-crud</i> | 2021 | <i>Internship Work</i> |
 
+<br/>
 </details>
 
 
@@ -136,6 +138,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 | <b>[Tanks - State Machines](https://github.com/andresilmor/Tanks-State-Machines)</b> | Use of State Machines to create a "World" with factions of Tanks with some degree of intelligence. | <i>university csharp state-machine unity game-development university-project artificial-intelligence state-machines</i> | 2021 | <i>Bachelor's Class Work</i> |
 | <b>[Tanks - Behavior Trees](https://github.com/andresilmor/Tanks-Behavior-Trees)</b> | Use of Behavior Trees to create a "World" with factions of Tanks with some degree of intelligence slowly walking to the their end. | <i>csharp game-engine unity game-development artificial-intelligence behaviour-trees behaviour-tree</i> | 2021 | <i>Bachelor's Class Work</i> |
 
+<br/>
 </details>
 
 <details>
@@ -149,6 +152,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 | <b>[Polynomial Calculator with Windows Forms](https://github.com/andresilmor/Polynomial-Calculator-with-Windows-Forms)</b> | Use of Windows Form to create a Polynomial Calculator with features from addition of two polynomials till the calculation of the polynomial itself. | <i>university csharp university-project mathematics polynomial windows-forms calculator-application </i> | 2020 | <i>Bachelor's Class Work</i> |
 | <b>[Graphs with List of Adjuntions](https://github.com/andresilmor/Graphs-with-List-of-Adjunctions)</b> | Adaptation of a application that used Graphs with Matrix of Adjunctions to List of Adjunctions. | <i>university csharp graph university-project windows-forms adjunctions</i> | 2020 | <i>Bachelor's Class Work</i> |
 
+<br/>
 </details>
 
 
@@ -160,6 +164,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 | --- | --- | :-: | :-: | :-: |
 | <b>[Information Request from Web Server (Mobile)](https://github.com/andresilmor/Information-Request-from-Web-Server-Mobile)</b> | Moblie Application using Actionscript with retrievel of information from a XML file in a Web Server. | <i>web-server university actionscript xml mobile-app request</i> | 2021 | <i>Bachelor's Class Work</i> |
 
+<br/>
 </details>
 
 
@@ -175,7 +180,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 | <b>[AutoAluga - Console Software](https://github.com/andresilmor/AutoAluga-Console-Software)</b> | Console Application to manage a Car Rental store based on a UML Class diagram. | <i>university csharp university-project first-timers console-application object-oriented-programming</i> | 2019 | <i>Bachelor's Class Work</i> |
 | <b>[Python Exercises](https://github.com/andresilmor/Python-Exercises)</b> | "Package" with the resolution of Python exercises from subject "Introduction to Programming" of the Bachelor's Degree Multimédia (EsACT-IPB), also my first time programming. | <i>python university python3 first-timers exercises introduction-to-programming introduction-to-python</i> | 2018/2019 | <i>Bachelor's Class Exercises</i> |
 
-
+<br/>
 </details>
 
 
