@@ -75,23 +75,104 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <br/>
 <table>
   <tr>
-    <td valign="top" >
+    <td valign="center" >
       <b>Geometry for Kiddos</b>
     </td>
-    <td valign="top" >
+    <td valign="center" >
       Application in Mixed-Reality (HL2) to support teachers and students in Geometry studies through different settings and scenarios. 
     </td>
-    <td valign="top" >
+    <td valign="center" >
       <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i>
     </td>
+    <td valign="center" >
+      <i>2023</i>
+    </td>
+    <td valign="center" >
+      <i>Research Project</i>
+    </td>
   </tr>
+
+  <tr>
+    <td valign="center" >
+      <b>Geometry for Kiddos</b>
+    </td>
+    <td valign="center" >
+      Application in Mixed-Reality (HL2) to support teachers and students in Geometry studies through different settings and scenarios. 
+    </td>
+    <td valign="center" >
+      <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i>
+    </td>
+    <td valign="center" >
+      <i>2023</i>
+    </td>
+    <td valign="center" >
+      <i>Research Project</i>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="center" >
+      <b>Geometry for Kiddos</b>
+    </td>
+    <td valign="center" >
+      Application in Mixed-Reality (HL2) to support teachers and students in Geometry studies through different settings and scenarios. 
+    </td>
+    <td valign="center" >
+      <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i>
+    </td>
+    <td valign="center" >
+      <i>2023</i>
+    </td>
+    <td valign="center" >
+      <i>Research Project</i>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="center" >
+      <b>Geometry for Kiddos</b>
+    </td>
+    <td valign="center" >
+      Application in Mixed-Reality (HL2) to support teachers and students in Geometry studies through different settings and scenarios. 
+    </td>
+    <td valign="center" >
+      <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i>
+    </td>
+    <td valign="center" >
+      <i>2023</i>
+    </td>
+    <td valign="center" >
+      <i>Bachelor Final Projec</i>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="center" >
+      Interaction with 360º Hotspot elements in Virtual Reality
+    </td>
+    <td valign="center" >
+       Interaction with elements mapped on a 360º Hotspot (created from start/no assets, tools) using OpenXR to display information. 
+    </td>
+    <td valign="center" >
+      <i>unity vr virtual-reality information-visualization interaction 360-photo openxr</i>
+    </td>
+    <td valign="center" >
+      <i>2021</i>
+    </td>
+    <td valign="center" >
+      <i>Bachelor Final Project</i>
+    </td>
+    <td>
+     https://github.com/andresilmor/Interaction-with-360-Hotspot-elements-in-Virtual-Reality
+    </td>
+  </tr>
+  
 </table>  
   
 </details>
 
 <br/>  
 
-  
 
 <br/>  
 
