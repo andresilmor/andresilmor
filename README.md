@@ -91,3 +91,20 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 
 </details>
 
+
+
+<details>
+  <summary> <b>Web Development</b> </summary>
+  <br/>
+  
+| Name/Link | Description | Keywords | Year | Context | 
+| --- | --- | :-: | :-: | :-: |
+| <b>[IPB Campus Life Social Network](https://github.com/andresilmor/IPB-Campus-Life-Social-Network/tree/dev-frontend)</b> | University Team Project related to "full-stack" development of an application/website of our choice. From the database using NoSQL Document Database (MongoDB), the Web API/Web Service with the Flask Framework and the Front-End with React.js and a mix of Native CSS, Bootstrap and Material UI. Implementing both Frontoffice and Backoffice. | <i>flask webservice website front-end frontend backend social-network reactjs webapi webplatform mongodb-driver backend-api one-page-website</i> | 2022 | <i>Master's Class Work</i> |
+| <b>[Kit Multimedia Order Website](https://github.com/andresilmor/Kit-Multimedia-Order-Website)</b> | Basic Web Shop using Bootstrap to buy the Kit of my Bachelor Degree (2020/2021) with the goal to simply the update of the content and the self-challenge to use the minimium of PHP (or any kind of backend code). | <i>javascript bootstrap website responsive seo native-javascript order seo-optimization reusability</i> | 2021 | <i>Student Council Work</i> |
+| <b>[Colorme Website](https://github.com/andresilmor/Colorme-Website)</b> | Webshop experiment and introduction to the use of Bootstrap, JQuey and ASP.Net with MVC Architecture.  | <i>bootstrap jquery website university csharp responsive seo university-project asp-net-core seo-optimization asp-net asp-net-mvc search-engine-optimization</i> | 2021 | <i>Bachelor's Class Work</i> |
+| <b>[VideoJogos 2020](https://github.com/andresilmor/VideoJogos-2020)</b> | Adapation of the website used for the Videojogos 2019 event to the year 2020 event. | <i>website university event adaptation responsive-website</i> | 2020 | <i>Event Volunteer Work</i> |
+| <b>[Daily Screening Website](https://github.com/andresilmor/Daily-Screening-Website)</b> | Introduction Project to the Back-end Development using PHP and MySQL, with some extras like the use of PDO, MVC Architecture and retrieval of information from a third-party News API. | <i>mysql api bootstrap php website university pdo university-project mvc-framework mvc-architecture mysql-database pdo-mysql model-view-controller pdo-php</i> | 2020 | <i>Bachelor's Class Work</i> |
+| <b>[Dark Season Website](https://github.com/andresilmor/Dark-Season-Website)</b> | Introduction Project to the Front-end web development (personally, of any kind) with HTML, CSS and Javascript withou Libraries.  | <i>website university static-site first-timers static-website</i> | 2020 | <i>Bachelor's Class Work</i> |
+
+</details>
+
