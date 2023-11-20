@@ -37,7 +37,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 <br/>  
 <br/>  
 <details>
-  <summary> <b>A little about me as professional</b> </summary>
+  <summary> <b>A little about me as developer</b> </summary>
 
   <br/>
 <table><tr><td valign="top" width="100%">
