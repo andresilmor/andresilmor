@@ -2,7 +2,11 @@
 ### A.K.A. André Silva Moreira
 
 ### I'm a... 
-...multifaceted developer, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was good enough), after which I wanted to run away from papers and pencils 😹, so I entered on the Multimidia Bachelor Degree (EsACT-IPB) with my focus on Post-Production and Editing, but on my first year I had "Introduction to Programming" which I loved (really unexpected), since the degree didn't had a very strong/structured programming component, and my Math "skill" was far from enough to change for a more Informatics focused degree, I took extra classes from others degrees since Game Development till Android with Java (my least favorite field), at the moment I'm on my second and last year of the Informatics Master Degree (ESTiG-IPB) and already working on my thesis related with Healthcare, XR technologies and Machine Learning. I like and im always open to experiment different technologies and programming fields, while I don't consider myself expert in none of them in terms of experience or deep knowledge, I like to know "where" to start if needed.
+...multifaceted developer, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was good enough), after which I wanted to run away from papers and pencils 😹, so I entered on the Multimidia Bachelor Degree (EsACT-IPB) with my focus on Post-Production and Editing, but on my first year I had "Introduction to Programming" which I loved (really unexpected).
+
+Aince the degree didn't had a very strong/structured programming component, and my Math "skill" was far from enough to change for a more Informatics focused degree, I took extra classes from others degrees since Game Development till Android with Java (my least favorite field), at the moment I'm on my second and last year of the Informatics Master Degree (ESTiG-IPB) and already working on my thesis related with Healthcare, XR technologies and Machine Learning. 
+
+I like and im always open to experiment different technologies and programming fields, while I don't consider myself expert in none of them in terms of experience or deep knowledge, I like to know "where" to start if needed.
 
 <br/>  
 <details>
