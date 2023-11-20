@@ -1,5 +1,5 @@
-## Hello There 😸, I'm André SilMor  
-### A.K.A. André Silva Moreira
+## Hello There 😸, my name is André Silva Moreira
+### A.K.A. André SilMor / Drowearl
 
 ### I'm a... 
 ...multifaceted developer, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was good enough), after which I wanted to run away from papers and pencils 😹, so I entered in the Multimidia Bachelor Degree (EsACT-IPB) with my interest in Post-Production and Editing, however it was presented to me "programming" in my first year with "Introduction to Programming" which I loved (really unexpected), and during that period I took extra classes from others degrees since Game Development till Android with Java (my least favorite field), at the moment I'm on my second and last year of the Informatics Master Degree (ESTiG-IPB) and already concluded my thesis related with Healthcare, XR technologies and Machine Learning. 
