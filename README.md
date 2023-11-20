@@ -44,19 +44,19 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <br/>
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I'm currently working in a Mixed Reality application to assist Geometry learning and improve my knowledge in Game Development
+- 🔭 I'm currently working in a Mixed Reality application to assist Geometry learning in Basic/Secondary School while improving my knowledge in Game Development
   
 
 - ❤️ My first experience with programming was in 2018 (w/ basic Python on the console) in the 1º semester / 1º year of my Bachelor  
   
 
-- ❓ I like to assist my colleagues, as far i can, even when "harming" myself 
+- ❓ I like to assist my colleagues, as far i can, sometimes "harming" myself 
   
 
-- 👻 My biggest weakness/fear is Math (and centipedes)  
+- 👻 My biggest weakness is Math (and centipedes)  
   
 
-- ⚡ Fun fact: I'm a Horror movies addict and I like to make photomontages of myself with Horror theme 
+- ⚡ My strength resides that I accept and do like being challenged
 
 </td></tr></table>  
   
@@ -91,7 +91,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   
 | Name/Link | Description | Keywords | Year | Context | 
 | --- | --- | :-: | :-: | :-: |
-| <b>[Geometry for Kiddos](https://github.com/andresilmor/Geometry-for-Kiddos)</b> | Application in Mixed-Reality (HL2) to support teachers and students in Geometry studies through different settings and scenarios. | <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i> | 2023 | <i>Research Project</i> |
+| <b>[Geometry for Kiddos](https://github.com/andresilmor/Geometry-for-Kiddos)</b> | Application in Mixed-Reality (HL2) to support teachers and basic/secondary students in Geometry studies through different settings and scenarios. | <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i> | 2023 | <i>Research Project</i> |
 
 </details>
 
