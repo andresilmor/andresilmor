@@ -70,7 +70,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <summary> <b>Virtual Reality (w/ Unity)</b> </summary>
   <br/>
 
-| Name/Link | Description | Keywords | Year | Multiple Branches | Context | 
+| Name/Link | Description | Topics | Year | Has Multiple Branches | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
 | <b>[Unity Learn VR Development Pathway](https://github.com/andresilmor/Unity-Learn-VR-Development-Pathway)</b> | Prototypes developed during the Unity Learn VR Developement Pathway | <i>unity vr game-development virtual-reality openxr xr-interaction-toolkit junior-programmer-course unity-learn</i> | 2023 | X | <i>Learning Pathway</i> |
 | <b>[EsACT Tour (VR Project)](https://github.com/andresilmor/EsACT-IPB-Tour-VR-Project)</b> | Virtual Reality Tour, using Unity with OpenXR, in a 3D Model of my University with 360º Hotpots in points of interests (such as "unique" classrooms or studiums) with small "game" mechanics. | <i>university unity vr virtual-reality-experiences university-project virtual-reality htc-vive interaction 360 360-video 360-photo cshap first-timer vive-controller openxr xr-interaction-toolkit</i> | 2021 | | <i>Bachelor Final Project</i> |
@@ -86,7 +86,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <summary> <b>Mixed Reality (w/ Unity)</b> </summary>
   <br/>
   
-| Name/Link | Description | Keywords | Year | Multiple Brances | Context | 
+| Name/Link | Description | Topics | Year | Has Multiple Brances | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
 | <b>[Geometry for Kiddos](https://github.com/andresilmor/Geometry-for-Kiddos)</b> | Application in Mixed-Reality (HL2) to support teachers and basic/secondary students in Geometry studies through different settings and scenarios. | <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i> | 2023 | X | <i>R&D Project (Independent)</i> |
 
@@ -99,7 +99,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <summary> <b>Front-End Web Development</b> </summary>
   <br/>
   
-| Name/Link | Description | Topics | Year | Multiple Branches | Context | 
+| Name/Link | Description | Topics | Year | Has Multiple Branches | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
 | <b>[IPB Campus Life Social Network](https://github.com/andresilmor/IPB-Campus-Life-Social-Network/tree/dev-frontend)</b> | University Team Project related to "full-stack" development of an application/website of our choice. From the database using NoSQL Document Database (MongoDB), the Web API/Web Service with the Flask Framework and the Front-End with React.js and a mix of Native CSS, Bootstrap and Material UI. Implementing both Frontoffice and Backoffice. | <i>flask webservice website front-end frontend backend social-network reactjs webapi webplatform mongodb-driver backend-api one-page-website</i> | 2022 | X | <i>Master's Class Work</i> |
 | <b>[Kit Multimedia Order Website](https://github.com/andresilmor/Kit-Multimedia-Order-Website)</b> | Basic Web Shop using Bootstrap to buy the Kit of my Bachelor Degree (2020/2021) with the goal to simply the update of the content and the self-challenge to use the minimium of PHP (or any kind of backend code). | <i>javascript bootstrap website responsive seo native-javascript order seo-optimization reusability</i> | 2021 | | <i>Student Council Work</i> |
@@ -116,7 +116,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <summary> <b>Back-End Development</b> </summary>
   <br/>
   
-| Name/Link | Description | Keywords | Year | Multiple Branches | Context | 
+| Name/Link | Description | Topics | Year | Has Multiple Branches | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
 | <b>[QR Code Decoder Microservice with gRPC](https://github.com/andresilmor/QR-Code-Decoder-Microservice-with-gRPC)</b> | gRPC Microservice in Java that uses BoofCV to decode QR Codes present in images. | <i>java microservice grpc boofcv qrcode-scanner qrcode-reader grpc-java </i> | 2023 |  | <i>R&D Project ([GreenHealth](https://www.researchgate.net/publication/377110487_The_Use_of_Extended_Reality_and_Machine_Learning_to_Improve_Healthcare_and_Promote_GreenHealth))</i> |
 | <b>[Emotion Recognition Microservice with gRPC](https://github.com/andresilmor/Emotion-Recognition-Microservice-with-gRPC)</b> | gRPC Microservice in Python that uses a CNN model (trained with EMOTIC Dataset) to recognise emotions from persons (requires bounding box data) in images.  | <i>python machine-learning microservice grpc cnn convolutional-neural-networks emotion-recognition grpc-python </i> | 2023 |  | <i>R&D Project ([GreenHealth](https://www.researchgate.net/publication/377110487_The_Use_of_Extended_Reality_and_Machine_Learning_to_Improve_Healthcare_and_Promote_GreenHealth))</i> |
@@ -132,7 +132,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <summary> <b>Game Development</b> </summary>
   <br/>
   
-| Name/Link | Description | Keywords | Year | Multiple Branches | Context | 
+| Name/Link | Description | Topics | Year | Has Multiple Branches | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
 | <b>[Unity Learn Junior Programmer Pathway](https://github.com/andresilmor/Unity-Learn-Junior-Programmer-Pathway)</b> | Prototypes developed during the Unity Learn Junior Programmer Pathway | <i>unity junior-programmer-course unity-learn game-development</i> | 2023 | X | <i>Learning Pathway</i> |
 | <b>[Maze Solving - Trémaux Algorithm](https://github.com/andresilmor/Maze-Solving-Tremaux-Algorithm)</b> | Application/Use of the Trémaux Algorithm on a Unity 2D game to escape a maze. | <i>university csharp game-engine unity game-development university-project artificial-intelligence maze-solver tremaux tremaux-algorithm</i> | 2021 | | <i>Bachelor's Class Work</i> |
@@ -146,7 +146,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <summary> <b>Desktop Development</b> </summary>
   <br/>
   
-| Name/Link | Description | Keywords | Year | Multiple Branches | Context | 
+| Name/Link | Description | Topics | Year | Has Multiple Branches | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
 | <b>[Portfolio App (Desktop)](https://github.com/andresilmor/Portfolio-App-Desktop)</b> | Sample of a Portfolio Application using Actionscript and Adobe Animate with some more advanced Classes and features. | <i>university actionscript xml university-project desktop-application object-oriented-programming</i> | 2021 | | <i>Bachelor's Class Work</i> |
 | <b>[Simple Calculator (Desktop)](https://github.com/andresilmor/Simple-Calculator-Desktop)</b> | Basic Calculator application using Actionscript and Adobe Animate. | <i>calculator actionscript desktop-application calculator-application object-oriented-programming</i> | 2021 | | <i>Bachelor's Class Exercise</i> |
@@ -161,7 +161,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <summary> <b>Mobile Development</b> </summary>
   <br/>
   
-| Name/Link | Description | Keywords | Year | Multiple Branches | Context | 
+| Name/Link | Description | Topics | Year | Has Multiple Branches | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
 | <b>[Information Request from Web Server (Mobile)](https://github.com/andresilmor/Information-Request-from-Web-Server-Mobile)</b> | Moblie Application using Actionscript with retrievel of information from a XML file in a Web Server. | <i>web-server university actionscript xml mobile-app request</i> | 2021 | | <i>Bachelor's Class Work</i> |
 
@@ -173,7 +173,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <summary> <b>Others</b> </summary>
   <br/>
   
-| Name/Link | Description | Keywords | Year | Multiple Branches | Context | 
+| Name/Link | Description | Topics | Year | Has Multiple Branches | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
 | <b>[N-Body Problem with Parallelization in Language C](https://github.com/andresilmor/N-Body-problem-with-Parallelization-in-Language-C)</b> | Adaptation of N-Body problem in serial code (src: rosettacode.org) to Parallel Programming/Parallel Computing in Language C with pThreads. | <i>c parallel-computing multithreading pthreads pthread nbody-simulation parallel-programming languagec</i> | 2023 | | <i>Master's Class Work</i> |
 | <b>[Gas Sensor with LED and Piezo alert](https://github.com/andresilmor/Gas-Sensor-with-LED-and-Piezo-alert)</b> | Example of using an Arduino with Leds and a Piezo as a Gas Sensor. | <i>arduino cplusplus sensor led piezo tinkercad gas-sensor</i> | 2020 | | <i>Bachelor's Class Work</i> |
