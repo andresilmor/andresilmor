@@ -67,7 +67,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 
 <p align="left"> <i>I had &nbsp; <img src="https://komarev.com/ghpvc/?username=andresilmor" alt="andresilmor" /> &nbsp; since 03/2023 (and almost all of them are mine)</i></p> 
  
-### List of Projects/Repositories (to help you and me XD)
+### List of (Public >_>) Projects/Repositories (to help you and me XD)
 
 <details>
   <summary> <b>Virtual Reality</b> </summary>
@@ -121,6 +121,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   
 | Name/Link | Description | Keywords | Year | Multiple Branches | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
+| <b>[Person Detection Microservice with gRPC](https://github.com/andresilmor/Person-Detection-Microservice-with-gRPC)</b> | gRPC Microservice in Python that consume a YOL0 v7 model to detect persons in images. | <i>python machine-learning grpc person-detection grpc-python</i> | 2023 |  | <i>GreenHealth R&D Project</i> |
 | <b>[IPB Campus Life Social Network Web API](https://github.com/andresilmor/IPB-Campus-Life-Social-Network/tree/dev-backend)</b> | University Team Project related to "full-stack" development of an application/website of our choice. From the database using NoSQL Document Database (MongoDB), the Web API/Web Service with the Flask Framework and the Front-End with React.js and a mix of Native CSS, Bootstrap and Material UI. Implementing both Frontoffice and Backoffice. | <i>flask webservice website front-end frontend backend social-network reactjs webapi webplatform mongodb-driver backend-api one-page-website</i> | 2022 | X | <i>Master's Class Work</i> |
 | <b>[FTP Connection PHP Class](https://github.com/andresilmor/FTP-Connection-PHP-Class)</b> | PHP Class to manage a FTP connection between a Website/Webapp and a Web Server with CRUD operations. | <i>php website web-development ftp file-transfer ftp-client ftp-server oriented-object-programming crud-operations file-transfer-protocol ftp-protocol crud-ftp ftp-crud</i> | 2021 | | <i>Internship Work</i> |
 
