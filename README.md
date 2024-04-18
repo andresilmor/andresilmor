@@ -70,7 +70,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 ### List of (Public >_>) Projects/Repositories (to help you and me XD)
 
 <details>
-  <summary> <b>Virtual Reality</b> </summary>
+  <summary> <b>Virtual Reality (w/ Unity)</b> </summary>
   <br/>
 
 | Name/Link | Description | Keywords | Year | Multiple Branches | Context | 
@@ -86,7 +86,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
 
 
 <details>
-  <summary> <b>Mixed Reality</b> </summary>
+  <summary> <b>Mixed Reality (w/ Unity)</b> </summary>
   <br/>
   
 | Name/Link | Description | Keywords | Year | Multiple Brances | Context | 
