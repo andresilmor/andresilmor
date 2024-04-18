@@ -13,10 +13,7 @@ I like and im always open to experiment different technologies and programming f
   <br/>
   <a href="https://linkedin.com/in/andresilmor" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://orcid.org/0000-0002-6253-6615" target="_blank">
-  <img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" style="margin-bottom: 5px;"/>
-  </a>  
+  </a> 
   <a href="https://www.researchgate.net/profile/Andre-Moreira-28" target="_blank">
   <img src=https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white alt=researchgate style="margin-bottom: 5px;" />
   </a>  
