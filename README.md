@@ -32,30 +32,7 @@ I like and im always open to experiment different technologies and programming f
 or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andre-moreira@ipb.pt</i> (Professional) 
 
 <br/>  
-<br/>  
-<details>
-  <summary> <b>A little about me as developer</b> </summary>
 
-  <br/>
-<table><tr><td valign="top" width="100%">
-
-- 🔭 I'm currently working in a Mixed Reality application to assist Geometry learning in Basic/Secondary School while improving my knowledge in Game Development
-  
-
-- ❤️ My first experience with programming was in 2018 (w/ basic Python running in the CMD) in the 1º semester / 1º year of my Bachelor  
-  
-
-- ❓ I like to assist and help my colleagues, like a colleague once said, i'm bad good teacher
-  
-
-- 👻 My biggest weakness is Math (and centipedes)  
-  
-
-- ⚡ And my strength resides that I accept and do like being challenged
-
-</td></tr></table>  
-  
-</details>
 
 
 <br/>  
