@@ -99,7 +99,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   <summary> <b>Front-End Web Development</b> </summary>
   <br/>
   
-| Name/Link | Description | Keywords | Year | Multiple Branches | Context | 
+| Name/Link | Description | Topics | Year | Multiple Branches | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
 | <b>[IPB Campus Life Social Network](https://github.com/andresilmor/IPB-Campus-Life-Social-Network/tree/dev-frontend)</b> | University Team Project related to "full-stack" development of an application/website of our choice. From the database using NoSQL Document Database (MongoDB), the Web API/Web Service with the Flask Framework and the Front-End with React.js and a mix of Native CSS, Bootstrap and Material UI. Implementing both Frontoffice and Backoffice. | <i>flask webservice website front-end frontend backend social-network reactjs webapi webplatform mongodb-driver backend-api one-page-website</i> | 2022 | X | <i>Master's Class Work</i> |
 | <b>[Kit Multimedia Order Website](https://github.com/andresilmor/Kit-Multimedia-Order-Website)</b> | Basic Web Shop using Bootstrap to buy the Kit of my Bachelor Degree (2020/2021) with the goal to simply the update of the content and the self-challenge to use the minimium of PHP (or any kind of backend code). | <i>javascript bootstrap website responsive seo native-javascript order seo-optimization reusability</i> | 2021 | | <i>Student Council Work</i> |
