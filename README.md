@@ -88,7 +88,7 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   
 | Name/Link | Description | Keywords | Year | Multiple Brances | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
-| <b>[Geometry for Kiddos](https://github.com/andresilmor/Geometry-for-Kiddos)</b> | Application in Mixed-Reality (HL2) to support teachers and basic/secondary students in Geometry studies through different settings and scenarios. | <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i> | 2023 | X | <i>Research Project (Independent)</i> |
+| <b>[Geometry for Kiddos](https://github.com/andresilmor/Geometry-for-Kiddos)</b> | Application in Mixed-Reality (HL2) to support teachers and basic/secondary students in Geometry studies through different settings and scenarios. | <i>education prototype unity geometry unity3d research-project educational-game mixed-reality serious-game hololens2 mrtk3</i> | 2023 | X | <i>R&D Project (Independent)</i> |
 
 <br/>
 </details>
@@ -118,8 +118,8 @@ or contact me directly with <i>andresilmor@outlook.com</i> (Personal) or <i>andr
   
 | Name/Link | Description | Keywords | Year | Multiple Branches | Context | 
 | --- | --- | :-: | :-: | :-: | :-: |
-| <b>[Emotion Recognition Microservice with gRPC](https://github.com/andresilmor/Emotion-Recognition-Microservice-with-gRPC)</b> | gRPC Microservice in Python that uses a CNN model (trained with EMOTIC Dataset) to recognise emotions from persons (requires bounding box data) in images.  | <i>python machine-learning microservice grpc cnn convolutional-neural-networks emotion-recognition grpc-python </i> | 2023 |  | <i>GreenHealth R&D Project</i> |
-| <b>[Person Detection Microservice with gRPC](https://github.com/andresilmor/Person-Detection-Microservice-with-gRPC)</b> | gRPC Microservice in Python that uses a YOL0 v7 model to detect persons in images. | <i>python machine-learning microservice grpc person-detection grpc-python </i> | 2023 |  | <i>GreenHealth R&D Project</i> |
+| <b>[Emotion Recognition Microservice with gRPC](https://github.com/andresilmor/Emotion-Recognition-Microservice-with-gRPC)</b> | gRPC Microservice in Python that uses a CNN model (trained with EMOTIC Dataset) to recognise emotions from persons (requires bounding box data) in images.  | <i>python machine-learning microservice grpc cnn convolutional-neural-networks emotion-recognition grpc-python </i> | 2023 |  | <i>R&D Project (GreenHealth)</i> |
+| <b>[Person Detection Microservice with gRPC](https://github.com/andresilmor/Person-Detection-Microservice-with-gRPC)</b> | gRPC Microservice in Python that uses a YOL0 v7 model to detect persons in images. | <i>python machine-learning microservice grpc person-detection grpc-python </i> | 2023 |  | <i>R&D Project (GreenHealth)</i> |
 | <b>[IPB Campus Life Social Network Web API](https://github.com/andresilmor/IPB-Campus-Life-Social-Network/tree/dev-backend)</b> | University Team Project related to "full-stack" development of an application/website of our choice. From the database using NoSQL Document Database (MongoDB), the Web API/Web Service with the Flask Framework and the Front-End with React.js and a mix of Native CSS, Bootstrap and Material UI. Implementing both Frontoffice and Backoffice. | <i>flask webservice website front-end frontend backend social-network reactjs webapi webplatform mongodb-driver backend-api one-page-website</i> | 2022 | X | <i>Master's Class Work</i> |
 | <b>[FTP Connection PHP Class](https://github.com/andresilmor/FTP-Connection-PHP-Class)</b> | PHP Class to manage a FTP connection between a Website/Webapp and a Web Server with CRUD operations. | <i>php website web-development ftp file-transfer ftp-client ftp-server oriented-object-programming crud-operations file-transfer-protocol ftp-protocol crud-ftp ftp-crud</i> | 2021 | | <i>Internship Work</i> |
 
