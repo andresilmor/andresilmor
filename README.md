@@ -2,7 +2,7 @@
 ### A.K.A. André SilMor / Drowearl
 
 ### I'm a... 
-...~~Felinism Preacher~~ multifaceted ~~Tech-Priest~~ developer, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was good enough), after which I wanted to run away from papers and pencils 😹, so I entered in the Multimidia Bachelor Degree (EsACT-IPB) with my interest in Post-Production and Editing, however it was presented to me "programming" in my first year with "Introduction to Programming" which I loved (really unexpected), and during that period I took extra classes from others degrees since Game Development till Android with Java (my least favorite field), in December 2023 I concluded my Informatics Master Degree (ESTiG-IPB) with my [ thesis related with the use of XR and Machine Learning to improve Healthcare](https://www.researchgate.net/publication/377110487_The_Use_of_Extended_Reality_and_Machine_Learning_to_Improve_Healthcare_and_Promote_GreenHealth). Currently I'm a Research Fellow at EsACT-IPB since December 2023.
+...~~Felinism Preacher~~ multifaceted ~~Tech-Priest~~ developer, I started my studies in Visual Arts (High-School), to "run away" from Math (and because I was good enough), after which I wanted to run away from papers and pencils 😹, so I entered in the Multimidia Bachelor Degree (EsACT-IPB) with my interest in Post-Production and Editing, however it was presented to me "programming" in my first year with "Introduction to Programming" which I loved (really unexpected), and during that period I took extra classes from others degrees since Game Development till Android with Java (my least favorite field), in December 2023 I concluded my Informatics Master Degree (ESTiG-IPB) with my [ thesis related with the use of XR and Machine Learning to improve Healthcare](https://www.researchgate.net/publication/377110487_The_Use_of_Extended_Reality_and_Machine_Learning_to_Improve_Healthcare_and_Promote_GreenHealth). Currently I'm a PhD Student at UTAD since September 2024.
 
 I like and im always open to experiment different technologies and programming fields, while I don't consider myself expert in none of them in terms of experience or deep knowledge, I like to know "where" to start if needed.
 
@@ -13,6 +13,9 @@ I like and im always open to experiment different technologies and programming f
   <br/>
   <a href="https://linkedin.com/in/andresilmor" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a> 
+  <a href="https://orcid.org/0000-0002-6253-6615" target="_blank">
+  <img src=https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a> 
   <a href="https://www.researchgate.net/profile/Andre-Moreira-28" target="_blank">
   <img src=https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white alt=researchgate style="margin-bottom: 5px;" />
